@@ -1,8 +1,8 @@
 
 <?php
 
-$botToken = "5203184179:AAGi4A145676reCPsjuHRJ3d89tR9E";
+$botToken = "7389619612:AAF0MadcQk7ZGrCGHp99myuxKCrSMuXmOcU";
 
-$id = "5003452291";
+$id = "6737099034";
 
 ?>
